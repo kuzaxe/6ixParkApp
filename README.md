@@ -1,4 +1,4 @@
-# 6ixParkApp
+# 6ixParkApp (for ANDROID)
 6ixPark - an app to save time and money when parking in the busy streets of Toronto. Second Place at Cisco / DevNet Hackathon!
 
 IDEA: 
